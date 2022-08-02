@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# 须知
 
-Let's discover **Docusaurus in less than 5 minutes**.
+文章标题禁止使用英文括号，会引起报错，无法渲染文章
 
 ## Getting Started
 
